@@ -1,0 +1,10 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.linkedin.com	TRUE	/	FALSE	1999999999	JSESSIONID	ajax:0555895724489227793
+.www.linkedin.com	TRUE	/	FALSE	1999999999	SameSite	None
+www.linkedin.com	TRUE	/	FALSE	1999999999	lang	v=2&lang=en-us
+.linkedin.com	TRUE	/	FALSE	1999999999	bcookie	v=2&309bef27-2a9e-46cf-8fdf-cc534bffa8b6"
+.www.linkedin.com	TRUE	/	FALSE	1999999999	bscookie	v=1&20211030153947ea02fe03-1ed6-4cf6-8866-f341e6231a25AQEUjNcFCtiAef0ojHNnGSIodRYIGNkK"
+.linkedin.com	TRUE	/	FALSE	1999999999	lidc	b=OGST09:s=O:r=O:a=O:p=O:g=2108:u=1:x=1:i=1635608387:t=1635694787:v=2:sig=AQHQ-IELZiIX4J4vdK1qZaedN_Bd1EQV"
+www.linkedin.com	TRUE	/	FALSE	1999999999	SameSite	None
+
